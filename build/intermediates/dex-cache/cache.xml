@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="8e5272f8f118391d33f919043d7ae3f73a6d00c2">
+        sha1="eaaf95e186a772dae1291b8f2f68119c7080f436">
         <dex dex="F:\GPSCar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_03762f9e09f521aa6389c389373c6805a146aa2b\classes.dex" />
     </item>
     <item
@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3f638c79b4b04988e76a6cfc3b978b957e1e5675">
+        sha1="e42a5f67b424c61a9589cecc69f14322a9a2136d">
         <dex dex="F:\GPSCar\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2b143646cdfce155d2793ab6425a96d377e66c03\classes.dex" />
     </item>
     <item
